@@ -1,6 +1,6 @@
 # Game Design Document
 
-# Game name: Hyperspace
+## Game name: Hyperspace
 This is a beginner 2d Platformer game submission for ogpc season 13
 
 ## StoryLine
