@@ -41,4 +41,4 @@ move and follow the character. For our animation and assets, we used a website c
 3. The player parkours on building blocks, then reaches the UFO.
 4. If the player touches the alien then the player dies. 
 5. If the player jumps off the map then a barrier will instantly kill him.
-6 After the player dies you go to the end screen.
+6. After the player dies you go to the end screen.
