@@ -13,6 +13,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-05-11T21:42:50.358-07:00
+  lastUpdatedAtString: 2020-05-11T21:56:20.094-07:00
   initializedAtString: 2020-05-11T21:42:50.358-07:00
-  log: []
+  log:
+  - commitID: f1a19460d30967bb4fedf8c47da905cd369bd93e
+    mergeA: 
+    mergeB: 
+    authorName: Rithvik Rao
+    authorEmail: rithvik.rao.8@gmail.com
+    commitEmail: rithvik.rao.8@gmail.com
+    commitName: Rithvik Rao
+    summary: Final commit
+    description: 
+    timeString: 2020-05-11T21:43:49.000-07:00
+    commitTimeString: 2020-05-11T21:43:49.000-07:00
+    changes:
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\haris\Development\git\unity\hyperspace-final\HyperSpaceRedux\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\haris\Development\git\unity\hyperspace-final\HyperSpaceRedux\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
